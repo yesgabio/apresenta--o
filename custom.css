@@ -1,0 +1,27 @@
+@import 'uncover';
+
+
+
+/* @theme myTheme */
+:root{
+    --bg-primary: #A30015;
+    --bg-secondary: #436436;
+    --bg-tertiary: #FFBF46;
+}
+
+
+section.primary{
+    background-color: var(--bg-primary);
+}
+
+section.secondary{
+    background-color: var(--bg-secondary);
+}
+
+section.tertiary{
+    background-color: var(--bg-tertiary);
+}
+
+section::after {
+    content: 'Page ' attr(data-marpit-pagination) ' / ' attr(data-marpit-pagination-total);
+  }
