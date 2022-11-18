@@ -23,8 +23,12 @@ footer: <p>Gabriela Souza Oliveira - 284700 </p>
 
 ![bg opacity:0.8 saturate:30](fig/estrutura-de-conexao-de-rede-conceito-de-alta-tecnologia-e-futuro-conceito-de-comunicacao-e-web-visualizacao-de-big-data-renderizacao-em-3d_634443-444.webp)
 
+<!-- Explicação sobre o projeto -->
 ---
 <!-- _class: tertiary -->
 # OBJETIVO
 
 ![bg opacity:0.8 saturate:30](fig/estrutura-de-conexao-de-rede-conceito-de-alta-tecnologia-e-futuro-conceito-de-comunicacao-e-web-visualizacao-de-big-data-renderizacao-em-3d_634443-444.webp)
+
+<!-- objetivo da existência do projeto -->
+---
